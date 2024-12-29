@@ -3,9 +3,9 @@ Akses model bisa melalui link roboflow atau web app. untuk versi mobile bisa aks
 
 Google collab : https://colab.research.google.com/drive/1VZhHO0c9gLo5XCI1h_R4wCxQR_ZGaOgG?usp=sharing
 
-Roboflow : https://universe.roboflow.com/farhan-abdullah-yunus/detecting-diseases-f6j4d/model/3
+Roboflow (butuh login): https://universe.roboflow.com/farhan-abdullah-yunus/detecting-diseases-f6j4d/model/3
 
-web app : https://detect.roboflow.com/?model=detecting-diseases-f6j4d&version=3&api_key=NFACG7gKBTunlf3HY0DO
+web app (tidak perlu login): https://detect.roboflow.com/?model=detecting-diseases-f6j4d&version=3&api_key=NFACG7gKBTunlf3HY0DO
 
 Hasil & model : https://drive.google.com/drive/folders/1AzFb0VcFApm1k275vn9RDazEYLVw6UL0?usp=sharing
 
